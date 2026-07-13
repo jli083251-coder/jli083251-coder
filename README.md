@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi there 👋
 
 <!--
 **jli083251-coder/jli083251-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
