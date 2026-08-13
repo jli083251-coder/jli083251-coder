@@ -1,52 +1,41 @@
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+%E2%9C%A6+I%27m+layy12&repeat=false" alt="Typing SVG" />
+
+**CS Undergraduate · Full-Stack Developer · AI Explorer**
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+
+<br /><br />
+
+### About Me
+
+```text
+ CS Undergraduate
+├── Full-Stack Development
+├── Artificial Intelligence
+└── Always learning something new
 ```
-┌──────────────────────────────────────────────────┐
-│                                                  │
-│  > PROFILE_INIT... OK                            │
-│                                                  │
-│  ╔══════════════════════════════════════════╗    │
-│  ║            l a y y 1 2                 ║    │
-│  ║     CS Undergraduate · Full-Stack       ║    │
-│  ╚══════════════════════════════════════════╝    │
-│                                                  │
-│  ▸ loading bio...                                │
-│    计科在读本科生，热爱写代码，正在探索 AI        │
-│                                                  │
-│  ────────────────────────────────────────────    │
-│                                                  │
-│  ▸ TECH_STACK                                    │
-│                                                  │
-│    [ JavaScript ]  [ Python ]                    │
-│    [ C++        ]  [ Vue    ]                    │
-│    [ HTML       ]                                │
-│                                                  │
-│  ▸ SKILL_BARS                                    │
-│                                                  │
-│    JavaScript  ████████░░░░░░░░  50%             │
-│    Python      ██████████░░░░░░  67%             │
-│    C++         ██████░░░░░░░░░░  33%             │
-│    Vue         ████████░░░░░░░░  50%             │
-│    HTML        ██████████░░░░░░  67%             │
-│                                                  │
-│  ────────────────────────────────────────────    │
-│                                                  │
-│  ▸ ACTIVE_QUESTS                                 │
-│                                                  │
-│    ▸ [ 进行中 ] 学习人工智能                      │
-│    ▸ [ 探索中 ] 深入 C++ 系统/算法               │
-│    ▸ [ 持续中 ] 全栈项目实践                     │
-│                                                  │
-│  ────────────────────────────────────────────    │
-│                                                  │
-│  ▸ STATS                                         │
-│                                                  │
-│    Total XP     ████████░░░░░░░░░░  40%          │
-│    Commit Streak ▓▓▓▓▓▓▓▓░░░░░░░░░  50%          │
-│    Curiosity     ████████████████░  90%          │
-│                                                  │
-│  ────────────────────────────────────────────    │
-│                                                  │
-│  > SYSTEM_READY.                                 │
-│    "Stay hungry, stay coding."                   │
-│                                                  │
-└──────────────────────────────────────────────────┘
-```
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api?username=jli083251-coder&show_icons=true&theme=default&hide_title=true&hide_border=true&bg_color=00000000" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jli083251-coder&layout=compact&hide_border=true&bg_color=00000000&langs_count=5" height="170" />
+
+<br /><br />
+
+### What I'm Doing
+
+- Currently learning **Artificial Intelligence**
+- Exploring **C++** system programming & algorithms
+- Building full-stack projects
+
+<br />
+
+<img src="https://komarev.p/ghpvc/?username=jli083251-coder&style=flat-square&color=58A6FF" alt="profile views" />
+
+</div>
