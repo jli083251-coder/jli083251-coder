@@ -1,6 +1,6 @@
 <div align="center">
 
-<span style="background:#1e1e1e;color:white;padding:8px 24px;border-radius:6px;font-size:28px;font-weight:bold;">layy12</span>
+<img src="https://img.shields.io/badge/layy12-2d2d2d?style=for-the-badge" alt="layy12" />
 
 **CS Undergraduate · Full-Stack Developer · AI Explorer**
 
