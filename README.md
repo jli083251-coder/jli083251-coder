@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>layy12</h1>
+<span style="background:#1e1e1e;color:white;padding:8px 24px;border-radius:6px;font-size:28px;font-weight:bold;">layy12</span>
 
 **CS Undergraduate · Full-Stack Developer · AI Explorer**
 
