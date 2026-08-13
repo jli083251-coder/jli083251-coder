@@ -24,8 +24,4 @@ CS Undergraduate · Full-Stack Development · Artificial Intelligence · Always 
 - Exploring **C++** system programming & algorithms
 - Building full-stack projects
 
-<br />
-
-<img src="https://komarev.p/ghpvc/?username=jli083251-coder&style=flat-square&color=58A6FF" alt="profile views" />
-
 </div>
