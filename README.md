@@ -14,12 +14,7 @@
 
 ### About Me
 
-```text
- CS Undergraduate
-├── Full-Stack Development
-├── Artificial Intelligence
-└── Always learning something new
-```
+CS Undergraduate · Full-Stack Development · Artificial Intelligence · Always learning something new
 
 <br />
 
