@@ -16,11 +16,6 @@
 
 CS Undergraduate · Full-Stack Development · Artificial Intelligence · Always learning something new
 
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api?username=jli083251-coder&show_icons=true&theme=default&hide_title=true&hide_border=true&bg_color=00000000" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jli083251-coder&layout=compact&hide_border=true&bg_color=00000000&langs_count=5" height="170" />
-
 <br /><br />
 
 ### What I'm Doing
