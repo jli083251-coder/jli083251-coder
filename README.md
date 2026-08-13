@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=435&lines=layy12&repeat=false" alt="Typing SVG" />
+<h1>layy12</h1>
 
 **CS Undergraduate · Full-Stack Developer · AI Explorer**
 
