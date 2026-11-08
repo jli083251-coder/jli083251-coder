@@ -9,7 +9,7 @@
 
 ## 已从旧主页提取的信息
 
-主页已填写你提供的姓名“李昂阳”、英文名“layy12”、邮箱 u202542343@xs.ustb.cn 和 2025 年 9 月入学时间。邮箱在首页顶部资料栏和 Contact 区各有一处。关于 AI、C++ 系统编程、算法和全栈项目的自述，以及两个公开项目仓库，是从你的 [GitHub 主页](https://github.com/jli083251-coder) 提取的。
+主页已填写你提供的姓名“李昂阳”、英文名“layy12”、邮箱 u202542343@xs.ustb.edu.cn 和 2025 年 9 月入学时间。邮箱在首页顶部资料栏和 Contact 区各有一处。关于 AI、C++ 系统编程、算法和全栈项目的自述，以及两个公开项目仓库，是从你的 [GitHub 主页](https://github.com/jli083251-coder) 提取的。
 
 主页还列出两个公开项目仓库：[Mei-AI-RMMV-Plugin](https://github.com/jli083251-coder/Mei-AI-RMMV-Plugin) 和 [RPGMV-Opera-Education-Game](https://github.com/jli083251-coder/RPGMV-Opera-Education-Game)。第二个仓库注明为团队作品，因此页面标记为 Team Project；目前不描述你的个人贡献。
 
